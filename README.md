@@ -27,3 +27,21 @@ Tạo các bảng theo yêu cầu:
 ![Screenshot 2025-03-25 041119](https://github.com/user-attachments/assets/7c3398ad-0c17-4a64-ad23-6bde4cbea8fd)
 10. Bảng DKMH
 ![Screenshot 2025-03-25 041413](https://github.com/user-attachments/assets/56010edc-a370-41de-9715-75a474243137)
+
+Thêm ràng buộc cho các thuộc tính cần thiết:
+
+Chuột phải sau đó chọn check constraints
+![Screenshot 2025-03-25 044147](https://github.com/user-attachments/assets/160ee7b1-239a-4b55-a4f7-2d4ca30fb5b7)
+Chọn Add để thêm điều kiện rồi chỉnh sửa, đặt điều kiện
+![Screenshot 2025-03-25 044632](https://github.com/user-attachments/assets/2fc8acc0-840e-46ae-8534-bc9de0c0f361)
+Các ĐK cần:
+1.
+![Screenshot 2025-03-25 045838](https://github.com/user-attachments/assets/3af576be-ef3a-40e9-8b2b-dddc2601715b)
+2.
+![Screenshot 2025-03-25 045843](https://github.com/user-attachments/assets/ea1e6907-9467-4663-a11f-89ba8984e2d2)
+3.
+![Screenshot 2025-03-25 045859](https://github.com/user-attachments/assets/028a4e38-02f8-40d3-8323-eec7fa9ec336)
+
+Cài khóa chính cho thuộc tính trong bảng: 
+Chuột phải chọn set primary key(1) hoặc chọn thuộc tính rồi nhấn vào biểu tượng chìa khóa(2)
+![Screenshot 2025-03-25 050343](https://github.com/user-attachments/assets/f4d13aad-f6d8-4275-822b-6b2b39ca83d8)
