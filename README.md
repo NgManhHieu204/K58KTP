@@ -45,3 +45,32 @@ Các ĐK cần:
 Cài khóa chính cho thuộc tính trong bảng: 
 Chuột phải chọn set primary key(1) hoặc chọn thuộc tính rồi nhấn vào biểu tượng chìa khóa(2)
 ![Screenshot 2025-03-25 050343](https://github.com/user-attachments/assets/f4d13aad-f6d8-4275-822b-6b2b39ca83d8)
+
+Cài đặt FK cho các bảng: chuột phải rồi chọn relationships
+![Screenshot 2025-03-25 145310](https://github.com/user-attachments/assets/a29f4451-faf9-4cb6-953c-164a8888b43d)
+
+![Screenshot 2025-03-25 150124](https://github.com/user-attachments/assets/17f89019-5e02-4e20-9602-2d75827eec05)
+
+![Screenshot 2025-03-25 150320](https://github.com/user-attachments/assets/f6345b6e-4870-4766-9f25-79f019cba253)
+
+![Screenshot 2025-03-25 151254](https://github.com/user-attachments/assets/0e8946eb-06c8-4974-baee-6da1de281480)
+
+![Screenshot 2025-03-25 151354](https://github.com/user-attachments/assets/0c351c0a-8207-4ba6-babc-3feda4c5eef9)
+
+![Screenshot 2025-03-25 151828](https://github.com/user-attachments/assets/541a14bf-2d91-42da-bee7-061de6609e9d)
+
+![Screenshot 2025-03-25 152826](https://github.com/user-attachments/assets/d33a4a24-15b2-44e6-98b5-60742e4d933d)
+
+![Screenshot 2025-03-25 153418](https://github.com/user-attachments/assets/e89434e7-b7ed-49ae-8613-53ff35025f30)
+
+![Screenshot 2025-03-25 153509](https://github.com/user-attachments/assets/d0e225ee-2176-4a23-92ef-c7bd41c02085)
+
+![Screenshot 2025-03-25 153814](https://github.com/user-attachments/assets/36df3103-be4a-46ac-8b8b-6d04d6f79ff7)
+
+![Screenshot 2025-03-25 153901](https://github.com/user-attachments/assets/15c72ece-828c-4df6-bc3e-8dece3ccaf6c)
+
+Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương:
+Chuột phải vào bảng -> chọn script table as -> create to -> new query editor window
+![image](https://github.com/user-attachments/assets/4111e0e3-80c5-4736-9dfe-708c03fb0ffb)
+Thành quả:
+![Screenshot 2025-03-25 154656](https://github.com/user-attachments/assets/19a718c3-52c8-4918-b561-3ad0cad75ae3)
